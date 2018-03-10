@@ -83,7 +83,7 @@
 
 <footer class="footer">
       <div class="container">
-        <center><span class="text-muted">Elaborado por: Jason Dubian Rizo Perez - Ingeniería de sistemas</span></center>
+        <center><span class="text-muted">Elaborado por: Dairo Estiben Beltrán Martínez - Ingeniería de sistemas</span></center>
       </div>
     </footer>
 </body>
