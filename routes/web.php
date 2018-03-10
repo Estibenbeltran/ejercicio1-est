@@ -12,5 +12,16 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('master');
 });
+Route::get('/catalogo', function () {
+    return view('catalogo');
+});
+Route::get('/prueba1', function () {
+    return view('prueba1');
+});
+Route::get('/prueba2', function () {
+    return view('prueba2');
+});
+
+Route::post('busqueda','logicaController@buscar');
